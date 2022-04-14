@@ -1,26 +1,26 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Welcome to Your Vue.js App" />
+  <div id="app">
+    <!-- Muestro el componente 'Pokemones' en el template de 'App.vue' -->
+    <ElementosK0s />
+  </div>
 </template>
 
 <script>
-import HelloWorld from "./components/HelloWorld.vue";
+//import HelloWorld from './components/HelloWorld.vue'
+
+// Importo el componente 'Pokemones'
+import ElementosK0s from "./components/IsotopoGamma.vue";
 
 export default {
   name: "App",
   components: {
-    HelloWorld,
+    ElementosK0s,
   },
 };
 </script>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+/* #app {
+
+} */
 </style>

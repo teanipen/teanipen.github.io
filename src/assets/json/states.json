@@ -1,0 +1,52 @@
+[
+  {
+    "code": 0,
+    "state": "??",
+    "comment": "Unknown state"
+  },
+  {
+    "code": 1,
+    "state": "",
+    "comment": "Radioactive, ground"
+  },
+  {
+    "code": 2,
+    "state": "m1",
+    "comment": "Radioactive, isomer, state 1"
+  },
+  {
+    "code": 3,
+    "state": "g+m1",
+    "comment": "Radioactive, summa of states"
+  },
+  {
+    "code": 4,
+    "state": "m2",
+    "comment": "Radioactive, isomer, state 2"
+  },
+  {
+    "code": 5,
+    "state": "g+m2",
+    "comment": "Radioactive, summa of states"
+  },
+  {
+    "code": 6,
+    "state": "m1+m2",
+    "comment": "Radioactive, summa of states"
+  },
+  {
+    "code": 10,
+    "state": "nat.",
+    "comment": "Natural, stable"
+  },
+  {
+    "code": 11,
+    "state": "nat.*",
+    "comment": "Natural, radioactive, ground"
+  },
+  {
+    "code": 12,
+    "state": "nat.**",
+    "comment": "Natural, radioactive, isomer, state 1"
+  }
+]
