@@ -6,8 +6,9 @@
     "a": 19,
     "state": 10,
     "abundancia": 100,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": "stbl",
+    "vidaMediaErr": 0,
+    "vidaMediaUnit": "s",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -17,8 +18,9 @@
     "a": 20,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 11.0062,
+    "vidaMediaErr": 0.0080,
+    "vidaMediaUnit": "s",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -28,8 +30,9 @@
     "a": 23,
     "state": 10,
     "abundancia": 100,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": "stbl",
+    "vidaMediaErr": 0,
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -39,8 +42,9 @@
     "a": 24,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 14.9560,
+    "vidaMediaErr": 0.0015,
+    "vidaMediaUnit": "h",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -50,8 +54,9 @@
     "a": 24,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 20.18,  
+    "vidaMediaErr": 0.10,
+    "vidaMediaUnit": "ms",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -61,8 +66,9 @@
     "a": 26,
     "state": 10,
     "abundancia": 11.01,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -72,8 +78,9 @@
     "a": 27,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 9.435,
+    "vidaMediaErr": 0.027,
+    "vidaMediaUnit": "m",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -83,8 +90,9 @@
     "a": 27,
     "state": 10,
     "abundancia": 100,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -94,8 +102,9 @@
     "a": 28,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 2.245,
+    "vidaMediaErr": 0.005,
+    "vidaMediaUnit": "m",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -105,8 +114,9 @@
     "a": 30,
     "state": 10,
     "abundancia": 3.1,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -116,8 +126,9 @@
     "a": 31,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 157.16,
+    "vidaMediaErr": 0.20,
+    "vidaMediaUnit": "m",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -127,8 +138,9 @@
     "a": 36,
     "state": 10,
     "abundancia": 0.02,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -138,8 +150,9 @@
     "a": 37,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 5.05,
+    "vidaMediaErr": 0.02,
+    "vidaMediaUnit": "m",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -149,8 +162,9 @@
     "a": 37,
     "state": 10,
     "abundancia": 24.23,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -160,8 +174,9 @@
     "a": 38,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 37.230,
+    "vidaMediaErr": 0.014,
+    "vidaMediaUnit": "m",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -171,8 +186,9 @@
     "a": 38,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 715,
+    "vidaMediaErr": 3,
+    "vidaMediaUnit": "ms",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -182,8 +198,9 @@
     "a": 40,
     "state": 10,
     "abundancia": 99.6,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -193,8 +210,9 @@
     "a": 41,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 109.61,
+    "vidaMediaErr": 0.04,
+    "vidaMediaUnit": "m",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -204,8 +222,9 @@
     "a": 41,
     "state": 10,
     "abundancia": 6.73,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -215,8 +234,9 @@
     "a": 42,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 12.355,
+    "vidaMediaErr": 0.007,
+    "vidaMediaUnit": "h",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -226,8 +246,9 @@
     "a": 46,
     "state": 10,
     "abundancia": 35,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -237,8 +258,9 @@
     "a": 47,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 4.536,
+    "vidaMediaErr": 0.003,
+    "vidaMediaUnit": "d",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -248,8 +270,9 @@
     "a": 48,
     "state": 11,
     "abundancia": 187,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 56,
+    "vidaMediaErr": 10,
+    "vidaMediaUnit": "Ey",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -259,8 +282,9 @@
     "a": 49,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 8.718,
+    "vidaMediaErr": 0.006,
+    "vidaMediaUnit": "m",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -270,8 +294,9 @@
     "a": 45,
     "state": 10,
     "abundancia": 100,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -281,8 +306,9 @@
     "a": 46,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 83.757,
+    "vidaMediaErr": 0.014,
+    "vidaMediaUnit": "d",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -292,8 +318,9 @@
     "a": 46,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 9.4,
+    "vidaMediaErr": 0.8,
+    "vidaMediaUnit": "us",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -303,8 +330,9 @@
     "a": 47,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 3.3492,
+    "vidaMediaErr": 0.0006,
+    "vidaMediaUnit": "d",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -314,8 +342,9 @@
     "a": 50,
     "state": 10,
     "abundancia": 5.2,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -325,8 +354,9 @@
     "a": 51,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 5.76,
+    "vidaMediaErr": 0.01,
+    "vidaMediaUnit": "m",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -336,8 +366,9 @@
     "a": 51,
     "state": 10,
     "abundancia": 99.75,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -347,8 +378,9 @@
     "a": 52,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 3.743,
+    "vidaMediaErr": 0.005,
+    "vidaMediaUnit": "m",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -358,8 +390,9 @@
     "a": 50,
     "state": 10,
     "abundancia": 4.35,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -369,8 +402,9 @@
     "a": 51,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 27.7015,
+    "vidaMediaErr": 0.0011,
+    "vidaMediaUnit": "d",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -380,8 +414,9 @@
     "a": 55,
     "state": 10,
     "abundancia": 100,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -391,8 +426,9 @@
     "a": 56,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 2.5789,
+    "vidaMediaErr": 0.0001,
+    "vidaMediaUnit": "h",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -402,8 +438,9 @@
     "a": 58,
     "state": 10,
     "abundancia": 0.28,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -413,8 +450,9 @@
     "a": 59,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 44.500,
+    "vidaMediaErr": 0.012,
+    "vidaMediaUnit": "d",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -424,8 +462,9 @@
     "a": 59,
     "state": 10,
     "abundancia": 100,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -435,8 +474,9 @@
     "a": 60,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 5.2714,
+    "vidaMediaErr": 0.0006,
+    "vidaMediaUnit": "y",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -446,8 +486,9 @@
     "a": 60,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 10.467,
+    "vidaMediaErr": 0.006,
+    "vidaMediaUnit": "m",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -457,8 +498,9 @@
     "a": 64,
     "state": 10,
     "abundancia": 0.91,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -468,8 +510,9 @@
     "a": 65,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 2.5175,
+    "vidaMediaErr": 0.0005,
+    "vidaMediaUnit": "h",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -479,8 +522,9 @@
     "a": 63,
     "state": 10,
     "abundancia": 69.17,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -490,8 +534,9 @@
     "a": 64,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 12.7004,
+    "vidaMediaErr": 0.0013,
+    "vidaMediaUnit": "h",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -501,8 +546,9 @@
     "a": 65,
     "state": 10,
     "abundancia": 30.83,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -512,8 +558,9 @@
     "a": 66,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 5.120,
+    "vidaMediaErr": 0.014,
+    "vidaMediaUnit": "m",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -523,8 +570,9 @@
     "a": 64,
     "state": 10,
     "abundancia": 48.6,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -534,8 +582,9 @@
     "a": 65,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 243.94,
+    "vidaMediaErr": 0.04,
+    "vidaMediaUnit": "d",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -545,8 +594,9 @@
     "a": 68,
     "state": 10,
     "abundancia": 18.8,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -556,8 +606,9 @@
     "a": 69,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 13.747,
+    "vidaMediaErr": 0.011,
+    "vidaMediaUnit": "h",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -567,8 +618,9 @@
     "a": 70,
     "state": 10,
     "abundancia": 0.6,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -578,8 +630,9 @@
     "a": 71,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 2.40,
+    "vidaMediaErr": 0.05,
+    "vidaMediaUnit": "m",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -589,8 +642,9 @@
     "a": 71,
     "state": 10,
     "abundancia": 39.9,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -600,8 +654,9 @@
     "a": 72,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 14.025,
+    "vidaMediaErr": 0.010,
+    "vidaMediaUnit": "h",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -611,8 +666,9 @@
     "a": 72,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 39.68,
+    "vidaMediaErr": 0.13,
+    "vidaMediaUnit": "ms",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -622,8 +678,9 @@
     "a": 74,
     "state": 10,
     "abundancia": 36.5,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -633,8 +690,9 @@
     "a": 75,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 82.78,
+    "vidaMediaErr": 0.04,
+    "vidaMediaUnit": "m",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -644,8 +702,9 @@
     "a": 75,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 47.7,
+    "vidaMediaErr": 0.5,
+    "vidaMediaUnit": "s",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -655,8 +714,9 @@
     "a": 76,
     "state": 10,
     "abundancia": 7.8,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 1.88,
+    "vidaMediaErr": 0.08,
+    "vidaMediaUnit": "Zy",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -666,8 +726,9 @@
     "a": 77,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 11.211,
+    "vidaMediaErr": 0.003,
+    "vidaMediaUnit": "h",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -677,8 +738,9 @@
     "a": 77,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 53.7,
+    "vidaMediaErr": 0.6,
+    "vidaMediaUnit": "s",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -688,8 +750,9 @@
     "a": 75,
     "state": 10,
     "abundancia": 100,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -699,8 +762,9 @@
     "a": 76,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 1.0933,
+    "vidaMediaErr": 0.0038,
+    "vidaMediaUnit": "d",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -710,8 +774,9 @@
     "a": 74,
     "state": 10,
     "abundancia": 0.89,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -721,8 +786,9 @@
     "a": 75,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 119.78,
+    "vidaMediaErr": 0.03,
+    "vidaMediaUnit": "d",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -732,8 +798,9 @@
     "a": 76,
     "state": 10,
     "abundancia": 9,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -743,8 +810,9 @@
     "a": 77,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 17.36,
+    "vidaMediaErr": 0.05,
+    "vidaMediaUnit": "s",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -755,7 +823,8 @@
     "state": 10,
     "abundancia": 50.69,
     "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMediaErr": "stbl",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -765,8 +834,9 @@
     "a": 80,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 17.68,  
+    "vidaMediaErr": 0.02,
+    "vidaMediaUnit": "m",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -776,8 +846,9 @@
     "a": 80,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 4.4205,
+    "vidaMediaErr": 0.0008,
+    "vidaMediaUnit": "h",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -787,8 +858,9 @@
     "a": 81,
     "state": 10,
     "abundancia": 49.31,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -798,8 +870,9 @@
     "a": 82,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 35.282,
+    "vidaMediaErr": 0.007,
+    "vidaMediaUnit": "h",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -809,8 +882,9 @@
     "a": 82,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 6.13,
+    "vidaMediaErr": 0.05,
+    "vidaMediaUnit": "m",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -820,8 +894,9 @@
     "a": 85,
     "state": 10,
     "abundancia": 72.17,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -831,8 +906,9 @@
     "a": 86,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 18.645,
+    "vidaMediaErr": 0.008,
+    "vidaMediaUnit": "d",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -842,8 +918,9 @@
     "a": 86,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 1.017,
+    "vidaMediaErr": 0.003,
+    "vidaMediaUnit": "m",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -853,8 +930,9 @@
     "a": 87,
     "state": 11,
     "abundancia": "27,835",
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 49.7,
+    "vidaMediaErr": 0.3,
+    "vidaMediaUnit": "Gy",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -864,8 +942,9 @@
     "a": 88,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 17.78,
+    "vidaMediaErr": 0.03,
+    "vidaMediaUnit": "m",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -875,8 +954,9 @@
     "a": 84,
     "state": 10,
     "abundancia": 0.56,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -886,8 +966,9 @@
     "a": 85,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 64.846,
+    "vidaMediaErr": 0.006,
+    "vidaMediaUnit": "d",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -897,8 +978,9 @@
     "a": 85,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 67.63,
+    "vidaMediaErr": 0.04,
+    "vidaMediaUnit": "m",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -908,8 +990,9 @@
     "a": 86,
     "state": 10,
     "abundancia": 9.86,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -919,8 +1002,9 @@
     "a": 87,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 2.805,
+    "vidaMediaErr": 0.009,
+    "vidaMediaUnit": "h ",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -930,8 +1014,9 @@
     "a": 89,
     "state": 10,
     "abundancia": 100,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -941,8 +1026,9 @@
     "a": 90,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 3.226,
+    "vidaMediaErr": 0.011,
+    "vidaMediaUnit": "h",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -952,8 +1038,9 @@
     "a": 94,
     "state": 10,
     "abundancia": 17.28,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -963,8 +1050,9 @@
     "a": 95,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 64.032,  
+    "vidaMediaErr": 0.006,
+    "vidaMediaUnit": "d",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -974,8 +1062,9 @@
     "a": 96,
     "state": 10,
     "abundancia": 2.76,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 23.4,
+    "vidaMediaErr": 1.7,
+    "vidaMediaUnit": "Ey",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -985,8 +1074,9 @@
     "a": 97,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 16.749,
+    "vidaMediaErr": 0.008,
+    "vidaMediaUnit": "h",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -996,8 +1086,9 @@
     "a": 93,
     "state": 10,
     "abundancia": 100,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1007,8 +1098,9 @@
     "a": 94,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 20.4,
+    "vidaMediaErr": 0.4,
+    "vidaMediaUnit": "ky",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1018,8 +1110,9 @@
     "a": 94,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 6.263,
+    "vidaMediaErr": 0.004,
+    "vidaMediaUnit": "m",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1029,8 +1122,9 @@
     "a": 95,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 34.991,
+    "vidaMediaErr": 0.006,
+    "vidaMediaUnit": "d",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1040,8 +1134,9 @@
     "a": 95,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 3.61,
+    "vidaMediaErr": 0.03,
+    "vidaMediaUnit": "d",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1051,8 +1146,9 @@
     "a": 97,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 72.1,
+    "vidaMediaErr": 0.7,
+    "vidaMediaUnit": "m",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1062,8 +1158,9 @@
     "a": 97,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 58.7,
+    "vidaMediaErr": 1.8,
+    "vidaMediaUnit": "s",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1073,8 +1170,9 @@
     "a": 98,
     "state": 10,
     "abundancia": 24.13,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1084,8 +1182,9 @@
     "a": 99,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 65.932,
+    "vidaMediaErr": 0.005,
+    "vidaMediaUnit": "h",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1095,8 +1194,9 @@
     "a": 100,
     "state": 10,
     "abundancia": 9.63,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 7.07,
+    "vidaMediaErr": 0.14,
+    "vidaMediaUnit": "Ey",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1106,8 +1206,9 @@
     "a": 101,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 14.61,
+    "vidaMediaErr": 0.03,
+    "vidaMediaUnit": "m",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1117,8 +1218,9 @@
     "a": 99,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 6.0066,
+    "vidaMediaErr": 0.0002,
+    "vidaMediaUnit": "h",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1128,8 +1230,9 @@
     "a": 101,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 14.22,
+    "vidaMediaErr": 0.01,
+    "vidaMediaUnit": "m",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1139,8 +1242,9 @@
     "a": 96,
     "state": 10,
     "abundancia": 5.52,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1150,8 +1254,9 @@
     "a": 97,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 2.8370,
+    "vidaMediaErr": 0.0014,
+    "vidaMediaUnit": "d",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1161,8 +1266,9 @@
     "a": 102,
     "state": 10,
     "abundancia": 31.6,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1172,8 +1278,9 @@
     "a": 103,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 39.245,
+    "vidaMediaErr": 0.008,
+    "vidaMediaUnit": "d",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1183,8 +1290,9 @@
     "a": 104,
     "state": 10,
     "abundancia": 18.7,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1194,8 +1302,9 @@
     "a": 105,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 4.439,
+    "vidaMediaErr": 0.011,
+    "vidaMediaUnit": "h",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1205,8 +1314,9 @@
     "a": 103,
     "state": 10,
     "abundancia": 100,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1216,8 +1326,9 @@
     "a": 104,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 42.3,
+    "vidaMediaErr": 0.4,
+    "vidaMediaUnit": "s",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1227,8 +1338,9 @@
     "a": 104,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 4.34,
+    "vidaMediaErr": 0.03,
+    "vidaMediaUnit": "m",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1238,8 +1350,9 @@
     "a": 105,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 35.341,
+    "vidaMediaErr": 0.019,
+    "vidaMediaUnit": "h",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1249,8 +1362,9 @@
     "a": 105,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 42.8,
+    "vidaMediaErr": 0.3,
+    "vidaMediaUnit": "s",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1260,8 +1374,9 @@
     "a": 108,
     "state": 10,
     "abundancia": 26.46,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1271,8 +1386,9 @@
     "a": 109,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 13.59,
+    "vidaMediaErr": 0.12,
+    "vidaMediaUnit": "h",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1282,8 +1398,9 @@
     "a": 109,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 4.703,
+    "vidaMediaErr": 0.009,
+    "vidaMediaUnit": "m",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1293,8 +1410,9 @@
     "a": 110,
     "state": 10,
     "abundancia": 11.72,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1304,8 +1422,9 @@
     "a": 111,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 5.563,
+    "vidaMediaErr": 0.013,
+    "vidaMediaUnit": "h",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1315,8 +1434,9 @@
     "a": 107,
     "state": 10,
     "abundancia": 51.83,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1326,8 +1446,9 @@
     "a": 108,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 2.382,
+    "vidaMediaErr": 0.011,
+    "vidaMediaUnit": "m",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1337,8 +1458,9 @@
     "a": 109,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 39.79,
+    "vidaMediaErr": 0.21,
+    "vidaMediaUnit": "s",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1348,8 +1470,9 @@
     "a": 109,
     "state": 10,
     "abundancia": 48.17,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1359,8 +1482,9 @@
     "a": 110,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 24.56,
+    "vidaMediaErr": 0.11,
+    "vidaMediaUnit": "s",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1370,8 +1494,9 @@
     "a": 110,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 249.863,
+    "vidaMediaErr": 0.024,
+    "vidaMediaUnit": "d",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1381,8 +1506,9 @@
     "a": 114,
     "state": 10,
     "abundancia": 28.72,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1392,8 +1518,9 @@
     "a": 115,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 53.46,
+    "vidaMediaErr": 0.05,
+    "vidaMediaUnit": "h",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1403,8 +1530,9 @@
     "a": 113,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 1.6579,
+    "vidaMediaErr": 0.0004,
+    "vidaMediaUnit": "h",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1414,8 +1542,9 @@
     "a": 113,
     "state": 10,
     "abundancia": 4.3,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1425,8 +1554,9 @@
     "a": 114,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 49.51,
+    "vidaMediaErr": 0.01,
+    "vidaMediaUnit": "d",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1436,8 +1566,9 @@
     "a": 114,
     "state": 4,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 71.9,
+    "vidaMediaErr": 0.1,
+    "vidaMediaUnit": "s",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1447,8 +1578,9 @@
     "a": 115,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 4.486,
+    "vidaMediaErr": 0.004,
+    "vidaMediaUnit": "h",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1458,8 +1590,9 @@
     "a": 115,
     "state": 11,
     "abundancia": 95.7,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 441,
+    "vidaMediaErr": 25,
+    "vidaMediaUnit": "Ty",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1469,8 +1602,9 @@
     "a": 116,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 54.29,
+    "vidaMediaErr": 0.17,
+    "vidaMediaUnit": "m",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1480,8 +1614,9 @@
     "a": 116,
     "state": 4,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 2.18,
+    "vidaMediaErr": 0.04,
+    "vidaMediaUnit": "s",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1491,8 +1626,9 @@
     "a": 112,
     "state": 10,
     "abundancia": 1,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1502,8 +1638,9 @@
     "a": 113,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 115.08,
+    "vidaMediaErr": 0.04,
+    "vidaMediaUnit": "d",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1513,8 +1650,9 @@
     "a": 113,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 21.4,
+    "vidaMediaErr": 0.4,
+    "vidaMediaUnit": "m",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1524,8 +1662,9 @@
     "a": 116,
     "state": 10,
     "abundancia": 14.7,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1535,8 +1674,9 @@
     "a": 117,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 13.939,
+    "vidaMediaErr": 0.024,
+    "vidaMediaUnit": "d",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1546,8 +1686,9 @@
     "a": 122,
     "state": 10,
     "abundancia": 4.6,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1557,8 +1698,9 @@
     "a": 123,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 40.06,
+    "vidaMediaErr": 0.01,
+    "vidaMediaUnit": "m",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1568,8 +1710,9 @@
     "a": 124,
     "state": 10,
     "abundancia": 5.79,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1579,8 +1722,9 @@
     "a": 125,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 9.634,
+    "vidaMediaErr": 0.015,
+    "vidaMediaUnit": "d",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1590,8 +1734,9 @@
     "a": 125,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 9.77,
+    "vidaMediaErr": 0.25,
+    "vidaMediaUnit": "m",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1601,8 +1746,9 @@
     "a": 121,
     "state": 10,
     "abundancia": 57.3,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1612,8 +1758,9 @@
     "a": 122,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 2.7238,
+    "vidaMediaErr": 0.0002,
+    "vidaMediaUnit": "d",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1623,8 +1770,9 @@
     "a": 122,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 4.191,
+    "vidaMediaErr": 0.003,
+    "vidaMediaUnit": "m",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1634,8 +1782,9 @@
     "a": 123,
     "state": 10,
     "abundancia": 42.7,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1645,8 +1794,9 @@
     "a": 124,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 60.20,
+    "vidaMediaErr": 0.03,
+    "vidaMediaUnit": "d",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1656,8 +1806,9 @@
     "a": 124,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 93,
+    "vidaMediaErr": 5,
+    "vidaMediaUnit": "s",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1667,8 +1818,9 @@
     "a": 124,
     "state": 4,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 20.2,
+    "vidaMediaErr": 0.2,
+    "vidaMediaUnit": "m",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1678,8 +1830,9 @@
     "a": 125,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 2.7576,
+    "vidaMediaErr": 0.0011,
+    "vidaMediaUnit": "y",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1689,8 +1842,9 @@
     "a": 130,
     "state": 10,
     "abundancia": 33.8,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 791,
+    "vidaMediaErr": 21,
+    "vidaMediaUnit": "Ey",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1700,8 +1854,9 @@
     "a": 131,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 25.0,
+    "vidaMediaErr": 0.1,
+    "vidaMediaUnit": "m",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1711,8 +1866,9 @@
     "a": 131,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 32.48,
+    "vidaMediaErr": 0.11,
+    "vidaMediaUnit": "h",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1722,8 +1878,9 @@
     "a": 127,
     "state": 10,
     "abundancia": 100,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1733,8 +1890,9 @@
     "a": 128,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 24.99,
+    "vidaMediaErr": 0.02,
+    "vidaMediaUnit": "m",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1744,8 +1902,9 @@
     "a": 131,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 8.0249,
+    "vidaMediaErr": 0.0006,
+    "vidaMediaUnit": "d",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1755,8 +1914,9 @@
     "a": 133,
     "state": 10,
     "abundancia": 100,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1766,8 +1926,9 @@
     "a": 134,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 2.0650,
+    "vidaMediaErr": 0.0004,
+    "vidaMediaUnit": "y",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1777,8 +1938,9 @@
     "a": 134,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 2.912,
+    "vidaMediaErr": 0.002,
+    "vidaMediaUnit": "h",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1788,8 +1950,9 @@
     "a": 130,
     "state": 10,
     "abundancia": 106,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1799,8 +1962,9 @@
     "a": 131,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 11.52,
+    "vidaMediaErr": 0.01,
+    "vidaMediaUnit": "d",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1810,8 +1974,9 @@
     "a": 131,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 14.26,
+    "vidaMediaErr": 0.09,
+    "vidaMediaUnit": "m",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1821,8 +1986,9 @@
     "a": 132,
     "state": 10,
     "abundancia": 101,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1832,8 +1998,9 @@
     "a": 133,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 38.90,
+    "vidaMediaErr": 0.06,
+    "vidaMediaUnit": "h",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1843,8 +2010,9 @@
     "a": 138,
     "state": 10,
     "abundancia": 71.7,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1854,8 +2022,9 @@
     "a": 139,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 82.93,
+    "vidaMediaErr": 0.09,
+    "vidaMediaUnit": "m",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1865,8 +2034,9 @@
     "a": 140,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 12.7534,
+    "vidaMediaErr": 0.0021,
+    "vidaMediaUnit": "d",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1876,8 +2046,9 @@
     "a": 139,
     "state": 10,
     "abundancia": 99.91,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1887,8 +2058,9 @@
     "a": 140,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 40.289,
+    "vidaMediaErr": 0.004,
+    "vidaMediaUnit": "h",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1898,8 +2070,9 @@
     "a": 140,
     "state": 10,
     "abundancia": 88.48,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1909,8 +2082,9 @@
     "a": 141,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 32.505,
+    "vidaMediaErr": 0.010,
+    "vidaMediaUnit": "d",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1920,8 +2094,9 @@
     "a": 142,
     "state": 11,
     "abundancia": 11.08,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1931,8 +2106,9 @@
     "a": 143,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 33.039,
+    "vidaMediaErr": 0.006,
+    "vidaMediaUnit": "h",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1942,8 +2118,9 @@
     "a": 141,
     "state": 10,
     "abundancia": 100,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1953,8 +2130,9 @@
     "a": 142,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 19.12,
+    "vidaMediaErr": 0.04,
+    "vidaMediaUnit": "h",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1964,8 +2142,9 @@
     "a": 142,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 14.6,
+    "vidaMediaErr": 0.5,
+    "vidaMediaUnit": "m",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1975,8 +2154,9 @@
     "a": 146,
     "state": 10,
     "abundancia": 17.19,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1986,8 +2166,9 @@
     "a": 147,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 10.98,
+    "vidaMediaErr": 0.01,
+    "vidaMediaUnit": "d",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -1997,8 +2178,9 @@
     "a": 148,
     "state": 10,
     "abundancia": 5.72,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2008,8 +2190,9 @@
     "a": 149,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 1.728,
+    "vidaMediaErr": 0.001,
+    "vidaMediaUnit": "h",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2019,8 +2202,9 @@
     "a": 150,
     "state": 10,
     "abundancia": 5.64,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 9.3,
+    "vidaMediaErr": 0.7,
+    "vidaMediaUnit": "Ey",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2030,8 +2214,9 @@
     "a": 151,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 12.44,
+    "vidaMediaErr": 0.07,
+    "vidaMediaUnit": "m",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2041,8 +2226,9 @@
     "a": 149,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 53.08,
+    "vidaMediaErr": 0.05,
+    "vidaMediaUnit": "h",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2052,8 +2238,9 @@
     "a": 151,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 28.40,
+    "vidaMediaErr": 0.04,
+    "vidaMediaUnit": "h",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2063,8 +2250,9 @@
     "a": 152,
     "state": 10,
     "abundancia": 26.6,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2074,8 +2262,9 @@
     "a": 153,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 46.2846,
+    "vidaMediaErr": 0.0023,
+    "vidaMediaUnit": "h",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2085,8 +2274,9 @@
     "a": 154,
     "state": 10,
     "abundancia": 22.6,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2096,8 +2286,9 @@
     "a": 155,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 22.18,
+    "vidaMediaErr": 0.06,
+    "vidaMediaUnit": "m",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2107,8 +2298,9 @@
     "a": 151,
     "state": 10,
     "abundancia": 47.86,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 4.6,
+    "vidaMediaErr": 1.2,
+    "vidaMediaUnit": "Ey",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2118,8 +2310,9 @@
     "a": 152,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 13.517,
+    "vidaMediaErr": 0.006,
+    "vidaMediaUnit": "y",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2129,8 +2322,9 @@
     "a": 152,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 9.3116,
+    "vidaMediaErr": 0.0013,
+    "vidaMediaUnit": "h",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2140,8 +2334,9 @@
     "a": 153,
     "state": 10,
     "abundancia": 52.14,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2151,8 +2346,9 @@
     "a": 154,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 8.592,
+    "vidaMediaErr": 0.003,
+    "vidaMediaUnit": "y",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2162,8 +2358,9 @@
     "a": 154,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 46.3,
+    "vidaMediaErr": 0.4,
+    "vidaMediaUnit": "m",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2173,8 +2370,9 @@
     "a": 152,
     "state": 11,
     "abundancia": 0.2,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 108,
+    "vidaMediaErr": 8,
+    "vidaMediaUnit": "Ty",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2184,8 +2382,9 @@
     "a": 153,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 240.6,
+    "vidaMediaErr": 0.7,
+    "vidaMediaUnit": "d",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2195,8 +2394,9 @@
     "a": 158,
     "state": 10,
     "abundancia": 24.8,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2206,8 +2406,9 @@
     "a": 159,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 18.479,
+    "vidaMediaErr": 0.004,
+    "vidaMediaUnit": "h",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2217,8 +2418,9 @@
     "a": 160,
     "state": 10,
     "abundancia": 21.8,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2228,8 +2430,9 @@
     "a": 161,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 3.646,
+    "vidaMediaErr": 0.003,
+    "vidaMediaUnit": "m",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2239,8 +2442,9 @@
     "a": 159,
     "state": 10,
     "abundancia": 100,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2250,8 +2454,9 @@
     "a": 160,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 72.3,
+    "vidaMediaErr": 0.2,
+    "vidaMediaUnit": "d",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2261,8 +2466,9 @@
     "a": 164,
     "state": 10,
     "abundancia": 28.1,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2272,8 +2478,9 @@
     "a": 165,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 2.332,
+    "vidaMediaErr": 0.004,
+    "vidaMediaUnit": "h",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2283,8 +2490,9 @@
     "a": 165,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 1.257,
+    "vidaMediaErr": 0.006,
+    "vidaMediaUnit": "m",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2294,8 +2502,9 @@
     "a": 165,
     "state": 10,
     "abundancia": 100,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2305,8 +2514,9 @@
     "a": 166,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 26.812,
+    "vidaMediaErr": 0.007,
+    "vidaMediaUnit": "h",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2316,8 +2526,9 @@
     "a": 170,
     "state": 10,
     "abundancia": 14.9,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2327,8 +2538,9 @@
     "a": 171,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 7.516,
+    "vidaMediaErr": 0.002,
+    "vidaMediaUnit": "h",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2338,8 +2550,9 @@
     "a": 169,
     "state": 10,
     "abundancia": 100,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2349,8 +2562,9 @@
     "a": 170,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 128.6,
+    "vidaMediaErr": 0.3,
+    "vidaMediaUnit": "d",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2360,8 +2574,9 @@
     "a": 168,
     "state": 10,
     "abundancia": 127,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2371,8 +2586,9 @@
     "a": 169,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 32.014,
+    "vidaMediaErr": 0.005,
+    "vidaMediaUnit": "d",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2382,8 +2598,9 @@
     "a": 169,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 46,
+    "vidaMediaErr": 2,
+    "vidaMediaUnit": "s",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2393,8 +2610,9 @@
     "a": 174,
     "state": 10,
     "abundancia": 31.83,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2404,8 +2622,9 @@
     "a": 175,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 4.185,
+    "vidaMediaErr": 0.001,
+    "vidaMediaUnit": "d",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2415,8 +2634,9 @@
     "a": 175,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 68.2,
+    "vidaMediaErr": 0.3,
+    "vidaMediaUnit": "ms",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2426,8 +2646,9 @@
     "a": 176,
     "state": 10,
     "abundancia": 12.76,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2437,8 +2658,9 @@
     "a": 177,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 1.911,
+    "vidaMediaErr": 0.003,
+    "vidaMediaUnit": "h",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2448,8 +2670,9 @@
     "a": 177,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 6.41,
+    "vidaMediaErr": 0.02,
+    "vidaMediaUnit": "s",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2459,8 +2682,9 @@
     "a": 175,
     "state": 10,
     "abundancia": 97.41,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2470,8 +2694,9 @@
     "a": 176,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 3.664,
+    "vidaMediaErr": 0.019,
+    "vidaMediaUnit": "h",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2481,8 +2706,9 @@
     "a": 176,
     "state": 11,
     "abundancia": 2.59,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 37.01,
+    "vidaMediaErr": 0.17,
+    "vidaMediaUnit": "Gy",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2492,8 +2718,9 @@
     "a": 177,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 6.644,
+    "vidaMediaErr": 0.0009,
+    "vidaMediaUnit": "d",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2503,8 +2730,9 @@
     "a": 174,
     "state": 11,
     "abundancia": 163,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 2.0,
+    "vidaMediaErr": 0.4,
+    "vidaMediaUnit": "Py",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2514,8 +2742,9 @@
     "a": 175,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 70.65,
+    "vidaMediaErr": 0.19,
+    "vidaMediaUnit": "d",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2525,8 +2754,9 @@
     "a": 178,
     "state": 10,
     "abundancia": 27.1,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2536,8 +2766,9 @@
     "a": 179,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 18.67,
+    "vidaMediaErr": 0.04,
+    "vidaMediaUnit": "s",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2547,8 +2778,9 @@
     "a": 179,
     "state": 10,
     "abundancia": 13.75,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2558,8 +2790,9 @@
     "a": 180,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 5.53,
+    "vidaMediaErr": 0.02,
+    "vidaMediaUnit": "h",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2569,8 +2802,9 @@
     "a": 180,
     "state": 10,
     "abundancia": 35.22,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2580,8 +2814,9 @@
     "a": 181,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 42.39,
+    "vidaMediaErr": 0.06,
+    "vidaMediaUnit": "d",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2591,8 +2826,9 @@
     "a": 181,
     "state": 10,
     "abundancia": 99.99,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2602,8 +2838,9 @@
     "a": 182,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 114.74,
+    "vidaMediaErr": 0.12,
+    "vidaMediaUnit": "d",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2613,8 +2850,9 @@
     "a": 182,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 15.84,
+    "vidaMediaErr": 0.10,
+    "vidaMediaUnit": "m",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2624,8 +2862,9 @@
     "a": 186,
     "state": 10,
     "abundancia": 28.64,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2635,8 +2874,9 @@
     "a": 187,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 23.809,
+    "vidaMediaErr": 0.025,
+    "vidaMediaUnit": "h",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2646,8 +2886,9 @@
     "a": 185,
     "state": 10,
     "abundancia": 37.4,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2657,8 +2898,9 @@
     "a": 186,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 3.7185,
+    "vidaMediaErr": 0.0005,
+    "vidaMediaUnit": "d",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2668,8 +2910,9 @@
     "a": 187,
     "state": 11,
     "abundancia": 62.6,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 41.6,
+    "vidaMediaErr": 0.02,
+    "vidaMediaUnit": "Gy",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2679,8 +2922,9 @@
     "a": 188,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 17.005,
+    "vidaMediaErr": 0.003,
+    "vidaMediaUnit": "h",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2690,8 +2934,9 @@
     "a": 188,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 18.59,
+    "vidaMediaErr": 0.04,
+    "vidaMediaUnit": "m",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2701,8 +2946,9 @@
     "a": 184,
     "state": 10,
     "abundancia": 0.02,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 11.2,
+    "vidaMediaErr": 2.3,
+    "vidaMediaUnit": "Ty",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2712,8 +2958,9 @@
     "a": 185,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 92.95,
+    "vidaMediaErr": 0.09,
+    "vidaMediaUnit": "d",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2723,8 +2970,9 @@
     "a": 190,
     "state": 10,
     "abundancia": 26.4,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2734,8 +2982,9 @@
     "a": 191,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 14.99,
+    "vidaMediaErr": 0.02,
+    "vidaMediaUnit": "d",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2745,8 +2994,9 @@
     "a": 191,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 13.10,
+    "vidaMediaErr": 0.05,
+    "vidaMediaUnit": "h",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2756,8 +3006,9 @@
     "a": 192,
     "state": 10,
     "abundancia": 41,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2767,8 +3018,9 @@
     "a": 193,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 29.830,
+    "vidaMediaErr": 0.018,
+    "vidaMediaUnit": "h",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2778,8 +3030,9 @@
     "a": 191,
     "state": 10,
     "abundancia": 37.3,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2789,8 +3042,9 @@
     "a": 192,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 73.820,
+    "vidaMediaErr": 0.014,
+    "vidaMediaUnit": "d",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2800,8 +3054,9 @@
     "a": 192,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 1.45,
+    "vidaMediaErr": 0.05,
+    "vidaMediaUnit": "m",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2811,8 +3066,9 @@
     "a": 193,
     "state": 10,
     "abundancia": 62.7,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2822,8 +3078,9 @@
     "a": 194,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 19.35,
+    "vidaMediaErr": 0.07,
+    "vidaMediaUnit": "h",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2833,8 +3090,9 @@
     "a": 194,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 31.85,
+    "vidaMediaErr": 0.24,
+    "vidaMediaUnit": "ms",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2844,8 +3102,9 @@
     "a": 198,
     "state": 10,
     "abundancia": 7.2,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2855,8 +3114,9 @@
     "a": 199,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 30.80,
+    "vidaMediaErr": 0.21,
+    "vidaMediaUnit": "m",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2866,8 +3126,9 @@
     "a": 199,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 13.48,
+    "vidaMediaErr": 0.16,
+    "vidaMediaUnit": "s",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2877,8 +3138,9 @@
     "a": 197,
     "state": 10,
     "abundancia": 100,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2888,8 +3150,9 @@
     "a": 198,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 2.69464,
+    "vidaMediaErr": 0.00014,
+    "vidaMediaUnit": "d",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2899,8 +3162,9 @@
     "a": 199,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 3.139,
+    "vidaMediaErr": 0.007,
+    "vidaMediaUnit": "d",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2910,8 +3174,9 @@
     "a": 196,
     "state": 10,
     "abundancia": 0.15,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2921,8 +3186,9 @@
     "a": 197,
     "state": 2,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 23.82,
+    "vidaMediaErr": 0.04,
+    "vidaMediaUnit": "h",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2932,8 +3198,9 @@
     "a": 202,
     "state": 10,
     "abundancia": 29.7,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2943,8 +3210,9 @@
     "a": 203,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 46.610,
+    "vidaMediaErr": 0.010,
+    "vidaMediaUnit": "d",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2954,8 +3222,9 @@
     "a": 204,
     "state": 10,
     "abundancia": 6.78,
-    "vidaMedia": "",
+    "vidaMedia": "stbl",
     "vidaMediaErr": "",
+    "vidaMediaUnit": "",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2965,8 +3234,9 @@
     "a": 205,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 5.14,
+    "vidaMediaErr": 0.09,
+    "vidaMediaUnit": "m",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2976,8 +3246,9 @@
     "a": 232,
     "state": 11,
     "abundancia": 100,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 14.0,
+    "vidaMediaErr": 0.1,
+    "vidaMediaUnit": "Gy",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2987,8 +3258,9 @@
     "a": 233,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 21.83,
+    "vidaMediaErr": 0.04,
+    "vidaMediaUnit": "m",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -2998,8 +3270,9 @@
     "a": 233,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 26.975,
+    "vidaMediaErr": 0.013,
+    "vidaMediaUnit": "d",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -3009,8 +3282,9 @@
     "a": 238,
     "state": 11,
     "abundancia": 99.28,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 4.463,
+    "vidaMediaErr": 0.003,
+    "vidaMediaUnit": "Gy",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -3020,8 +3294,9 @@
     "a": 239,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 23.45,
+    "vidaMediaErr": 0.02,
+    "vidaMediaUnit": "m",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   },
   {
@@ -3031,8 +3306,9 @@
     "a": 239,
     "state": 1,
     "abundancia": 0,
-    "vidaMedia": "",
-    "vidaMediaErr": "",
+    "vidaMedia": 2.356,
+    "vidaMediaErr": 0.003,
+    "vidaMediaUnit": "d",
     "ref": "F.G. Kondev et al 2021 Chinese Phys. C 45 030001"
   }
 ]

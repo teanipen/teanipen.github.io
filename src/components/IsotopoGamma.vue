@@ -13,28 +13,34 @@
       </div>
     </div>
 
-    <div class="row mt-3">
-      <div class="col-md-4" v-for="item in items" v-bind:key="item.code">
-        <div class="card mb-3">
+    <div class="">
+      <div class="" v-for="element in elements" v-bind:key="element.code">
+        <div class="">
           <!-- <img
             class="card-img-top"
             v-bind:src="'img/' + item.img"
             v-bind:alt="item.nombre"
           /> -->
-          <div class="card-body">
-            <h3 class="card-title mb-3">
-              <sup>{{ item.a }}</sup
-              >{{ item.emisor
-              }}<sup>{{ states.filter((e) => e.code == item.s)[0].state }}</sup>
-            </h3>
-            <p class="card-text">
-              <strong>Isótopo Fuente:</strong> {{ item.target }} -
-              {{ item.a - 1 }}
-            </p>
-            <p class="card-text"><strong>E(KeV)</strong> {{ item.gamma }}</p>
-            <p class="card-text">
-              <strong>factor k0:</strong> {{ item.k0 }} &#177; {{ item.dk0 }}
-            </p>
+          <div class="flex-container">
+            <div class="">
+              <sup>{{ element.a }}</sup
+              >{{ element.simbolo
+              }}<sup>{{
+                states.filter((e) => e.code == element.state)[0].state
+              }}</sup>
+            </div>
+            <div class="">
+              <strong>Estado:</strong>
+              {{ states.filter((e) => e.code == element.state)[0].comment }}
+            </div>
+            <div v-if="element.vidaMedia != 'stbl'">
+              <strong>Vida media ({{ element.vidaMediaUnit }}):</strong>
+              {{ element.vidaMedia }} &plusmn;
+              {{ element.vidaMediaErr }}
+            </div>
+            <div v-else><strong>Elemento Estable</strong></div>
+            <div><strong>Referencia:</strong> {{ element.ref }}</div>
+            <button>Detalles</button>
           </div>
         </div>
       </div>
@@ -43,7 +49,7 @@
 </template>
 
 <script>
-import datos from "../assets/json/elementos.json";
+import elementos from "../assets/json/elementos.json";
 import states from "../assets/json/states.json";
 
 export default {
@@ -64,9 +70,9 @@ export default {
   // Creo un método llamado 'items' y obtengo los datos de los pokemones
   // Asimismo filtro la búsqueda de los pokemones con el método filter()
   computed: {
-    items() {
-      return datos.filter((item) => {
-        return item.emisor.toLowerCase().includes(this.buscar.toLowerCase());
+    elements() {
+      return elementos.filter((item) => {
+        return item.elemento.toLowerCase().includes(this.buscar.toLowerCase());
       });
     },
   },
@@ -75,5 +81,7 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-/**/
+.flex-container {
+  display: flex;
+}
 </style>
