@@ -1,6 +1,5 @@
 <template>
-  <div id="app">
-    <!-- Muestro el componente 'Pokemones' en el template de 'App.vue' -->
+  <div id="app" class="">
     <ElementosK0s />
   </div>
 </template>

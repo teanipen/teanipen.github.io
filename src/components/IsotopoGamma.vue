@@ -1,19 +1,20 @@
 <template>
-  <div class="container cont">
+  <div class="mx-3">
     <div class="row">
-      <div class="col-md-12">
-        <h1>Decay lines of the elements</h1>
-
+      <div class="">
+        <h1 class="text-center font-bold underline text-2xl">
+          ELEMENTOS UTILES PARA EL METODO K0
+        </h1>
         <input
           type="text"
           v-model="buscar"
-          class="form-control"
+          class="rounded border-2 border-black m-0"
           placeholder="Ejemplo: Ar"
         />
       </div>
     </div>
 
-    <div class="">
+    <div class="mt-3 space-y-5">
       <div class="" v-for="element in elements" v-bind:key="element.code">
         <div class="">
           <!-- <img
@@ -21,26 +22,30 @@
             v-bind:src="'img/' + item.img"
             v-bind:alt="item.nombre"
           /> -->
-          <div class="flex-container">
-            <div class="">
+          <div class="flex space-x-2">
+            <div class="w-14 text-sm pt-2">
               <sup>{{ element.a }}</sup
               >{{ element.simbolo
               }}<sup>{{
                 states.filter((e) => e.code == element.state)[0].state
               }}</sup>
             </div>
-            <div class="">
-              <strong>Estado:</strong>
+            <div class="w-52">
+              <span>Estado:</span>
               {{ states.filter((e) => e.code == element.state)[0].comment }}
             </div>
-            <div v-if="element.vidaMedia != 'stbl'">
-              <strong>Vida media ({{ element.vidaMediaUnit }}):</strong>
+            <div class="w-60" v-if="element.vidaMedia != 'stbl'">
+              <span class="font-semibold"
+                >Vida media ({{ element.vidaMediaUnit }}):</span
+              >
               {{ element.vidaMedia }} &plusmn;
               {{ element.vidaMediaErr }}
             </div>
-            <div v-else><strong>Elemento Estable</strong></div>
-            <div><strong>Referencia:</strong> {{ element.ref }}</div>
-            <button>Detalles</button>
+            <div class="w-60" v-else>
+              <span class="font-semibold">Elemento Estable</span>
+            </div>
+            <div class="w-60"><span>Referencia:</span> {{ element.ref }}</div>
+            <button class="rounded border-2 border-black p-1">Detalles</button>
           </div>
         </div>
       </div>
@@ -80,8 +85,4 @@ export default {
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
-<style scoped>
-.flex-container {
-  display: flex;
-}
-</style>
+<style scoped></style>
